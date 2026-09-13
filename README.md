@@ -23,9 +23,6 @@ CAD:
 
 
 
-What is this
-Basically I wanted a small macropad for my most used keybinds/websites (copy, paste, chatgpt, google docs, alt+tab, win+tab) lol
-
 Runs on a Seeed XIAO RP2040 with KMK firmware (CircuitPython-based). Super easy to reprogram without reflashing.
 
 Hardware
@@ -35,4 +32,9 @@ the PCB is designed in KiCad
 
 
 BOM
-6x Cherry MX Switches 1x XIAO RP2040 4x Blank DSA Keycaps 4x M3x16 Bolts 4x M3 Heatset Inserts ~50-100g PLA
+6x Cherry MX Switches 
+1x XIAO RP2040
+4x Blank DSA Keycaps 
+4x M3x16 Bolts 
+4x M3 Heatset Inserts 
+~50-100g PLA
